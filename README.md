@@ -41,8 +41,7 @@ Omikami is focused on building tools and platforms that embody the spirit of dec
 ## 🧱 Technical Information
 
 Blockchain: Ethereum (ERC-20)
-
-Audit: Completed by SolidProof
+Audit: Completed by SolidProof — https://app.solidproof.io/projects/amaterasu-omikami
 
 ## 📜 License
 
