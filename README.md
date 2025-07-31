@@ -38,22 +38,17 @@ Omikami aims to foster a decentralized universe rooted in community, innovation,
 
 Omikami is focused on building tools and platforms that embody the spirit of decentralization, inspired by mythology and powered by its people. With a community-first mindset and a future-focused approach, Omikami evolves through grassroots support and meaningful engagement.
 
-## 🧱 Technical Information
+🧱 **Technical Information**  
+- **Blockchain:** Ethereum (ERC-20)  
+- **Audit:** [Completed by SolidProof](https://app.solidproof.io/projects/amaterasu-omikami)
 
-Blockchain: Ethereum (ERC-20)
-Audit: Completed by SolidProof — https://app.solidproof.io/projects/amaterasu-omikami
+📜 **License**  
+MIT License. See [LICENSE](https://opensource.org/license/mit)
 
-## 📜 License
-
-MIT License. See LICENSE file.
-
-## 🔐 Security Contact
-
-For security concerns, contact us via:
-
-**Telegram**: Omikami Official
-
-**Email**: contact@omikami.ai
+🔐 **Security Contact**  
+For security concerns, contact us via:  
+- [Telegram](https://t.me/OmikamiPortal)  
+- [Email](mailto:contact@omikami.ai)
 
 ## 🤝 Join the Movement
 
