@@ -2,7 +2,9 @@
 Welcome to the official GitHub repository of **Omikami** – a decentralized cryptocurrency project inspired by the Sun Goddess and the Universe, powered by community, and driven by innovation.
 
 🌐 [Website (Main)](https://omikamitoken.com)
+
 🌐 [Ecosystem Portal](https://omikami.ai)
+
 🌐 [Halving Countdown](https://omikami.com)
 📄 [Whitepaper](https://omikamitoken.com/download/omikami.pdf)
 💬 [Telegram](https://t.me/OmikamiPortal)
