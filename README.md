@@ -46,15 +46,15 @@ Audit: Completed by SolidProof
 
 ## 📜 License
 
-MIT License. See [LICENSE] (https://opensource.org/license/MIT) file.
+MIT License. See LICENSE file.
 
 ## 🔐 Security Contact
 
 For security concerns, contact us via:
 
-Telegram: [Omikami official] (https://t.me/OmikamiPortal)
+**Telegram**: Omikami Official
 
-Email: contact@omikami.ai
+**Email**: contact@omikami.ai
 
 ## 🤝 Join the Movement
 
